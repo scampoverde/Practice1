@@ -1,2 +1,2 @@
-# aplicacion-web1
+# Practice1
 Practica en clase 1
